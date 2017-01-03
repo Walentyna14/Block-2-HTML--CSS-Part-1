@@ -74,7 +74,7 @@ content
 	width: 655px;
 	float: left;
 	padding-left: 10px;
-	letter-spacing: 1;
+	letter-spacing: 1px;
 	color: #57574c;
 	border-left: 3px solid #7c7063;
 }
