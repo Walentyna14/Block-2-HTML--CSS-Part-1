@@ -115,7 +115,16 @@ table
 	text-align: center;
 	margin: auto;
 	margin-bottom: 20px;
-	border: 1px; 
+	border: 2px solid;
+	border-spacing:0;
+}
+table tr th
+{
+	border: 2px solid; 
+}
+table tr td
+{
+	border: 1px solid; 
 }
 iframe
 {
