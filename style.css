@@ -23,17 +23,17 @@ header
 	height: 100px;
 	border-bottom: 6px solid #a09885;
 }
-#logo
+header:nth-child(2)
 {
 	float:left;
 	margin: 15px 0px 0px 80px;
 }
-#social
+header ul
 {
 	float: right;
 
 }
-#social ul li
+header ul li
 {
 	float: left;
 	list-style: none;
