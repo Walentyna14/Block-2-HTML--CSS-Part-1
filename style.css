@@ -31,7 +31,7 @@ header img
 header ul
 {
 	float: right;
-	margin: 8px 80px 8px 0px;
+	margin: 0px 80px 0px 0px;
 	padding: 0px;
 	
 }
@@ -39,13 +39,6 @@ header ul li
 {
 	display: inline-block;
 	list-style: none;
-	width: 70px;
-	padding: 0px 20px;
-}
-header ul li img
-{
-	height: 60px;
-	width: 60px;
 }
 #sidebar
 {
