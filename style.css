@@ -40,6 +40,10 @@ header ul li
 	display: inline-block;
 	list-style: none;
 }
+header ul li img
+{
+	margin-left: 20px;
+}
 #sidebar
 {
 	width:275px;
