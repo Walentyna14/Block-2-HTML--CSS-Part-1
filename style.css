@@ -26,12 +26,12 @@ header
 }
 header img
 {
-	margin: 0px 0px 0px 80px;
+	margin-left: 80px;
 }
 header ul
 {
 	float: right;
-	margin: 0px 80px 0px 0px;
+	margin-right:80px;
 	padding: 0px;
 	
 }
